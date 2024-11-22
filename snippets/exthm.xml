@@ -30,6 +30,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/base" name="android_frameworks_base" remote="exthm" />
+  <project path="frameworks/av" name="Frostleaft07/android_frameworks_av-exthm" remote="github" revision="exthm-10" />
 
   <!-- Packages -->
   <project path="packages/apps/AudioFX" name="android_packages_apps_AudioFX" remote="exthm" />
